@@ -1,0 +1,6 @@
+*.blend1
+~*.docx
+*.tmp
+*.swp
+'~'*
+.tmp*
